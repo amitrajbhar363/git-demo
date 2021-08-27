@@ -3,5 +3,5 @@
 This is my first git projects.
 
 ##Website Contents
-Here are the files of websites.
+Here are the files of website.
 1. index.html
